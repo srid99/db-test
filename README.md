@@ -1,4 +1,4 @@
-# Database connection
+# Database connection tester
 
 A simple command line application to test JDBC connection with provided JDBC driver and print the result set of the given query.
 
